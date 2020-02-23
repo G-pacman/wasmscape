@@ -9,4 +9,5 @@ int main(int argc, char ** argv) {
   fgets(buf, 50, stdin);
   printf("another test print statement\n");
   printf("%s\n",buf);
+  printf("add\n");
 }
