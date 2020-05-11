@@ -1,9 +1,7 @@
 # wasmscape
 wasmscape game
 
-I want to develop in C but that could change with proper persuasion(food).
-
-
+Learning wasm.
 
 wasm start guide: https://webassembly.org/getting-started/developers-guide/
 
