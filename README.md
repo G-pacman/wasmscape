@@ -1,7 +1,6 @@
 # wasmscape
-wasmscape game
-
-Learning wasm.
+wasmscape game - not much done yet.
+Testing and Learning WASM.
 
 wasm start guide: https://webassembly.org/getting-started/developers-guide/
 
